@@ -1,25 +1,39 @@
 # Cutora AI: facts
 
-Cutora AI (usecutora.com) is an AI-assisted editing tool for people who film themselves talking to camera: founders, teachers, coaches and creators.
+Cutora is an AI video editor for talking-head videos: upload a raw recording and it hands back an edited video, with the pauses, false starts and retakes cut, the audio cleaned, the colour corrected, and captions, zooms and on-screen text added, all on a timeline you can change.
+
+Cutora AI lives at https://usecutora.com and is built for one person talking to camera: founders, teachers, coaches and creators.
 
 ## What it does
-It makes a first cut from raw footage by removing long pauses, false starts and repeated takes. You review the cut on an editable timeline with undo, and export an MP4, or a ZIP ("Export to your editor") with an SRT caption file.
+
+First cut: it removes long pauses, false starts and repeated takes, keeping one take of a repeated line.
+
+Filler words: it cuts clear "um" and "uh" sounds between words. It keeps words like "like", "so" and "you know". A hesitation the speech check does not hear as a separate sound stays in.
+
+Finish: it cleans dialogue audio, applies automatic colour correction (you can turn it off), and adds English captions with key-word highlights (Clean, Bold and Karaoke styles), zooms, cards, on-screen text and sound effects. Audio cleanup, highlights, motion and sound effects can each be switched off per video.
+
+You refine the result on an editable timeline with undo, or by chat, then export an MP4 (1080x1920 or 1920x1080, 30 fps) or a ZIP for your own editor.
 
 ## What it does not do
-Cutora AI does not remove filler words (um/uh), add B-roll, or generate video, avatars or voices. It does not publish to social platforms. It does not edit videos longer than 60 minutes (10 minutes on the trial).
 
-## Availability
-Cutora is in Beta. New accounts open in daily batches (early access). The trial is one video up to 10 minutes, no card needed. Plans and prices are on https://usecutora.com/pricing.
+It does not add B-roll on its own (you can add your own clips to the second video lane by hand or by chat). It does not generate video, avatars or voices. It has no manual colour grading, only a colour look you can switch off. It does not tell speakers apart. It does not publish to social platforms. It does not edit videos longer than 60 minutes (10 minutes on the trial).
+
+## Plans and trial
+
+Cutora AI is in Beta. The trial needs an account with your email, no card, and covers one video up to 10 minutes and up to 10 exports with a small Cutora mark. Creator includes 120 upload minutes a month and Pro 250, with projects up to 60 minutes. Prices: https://usecutora.com/pricing
 
 ## Editor handoff and languages
-Verified in DaVinci Resolve 21. Final Cut Pro and Premiere Pro: not yet tested by us. English captions work today; Arabic captions are in Beta.
+
+The ZIP export (Final Cut Pro XML, Premiere XML, EDL, OpenTimelineIO, SRT and a cut list) is verified in DaVinci Resolve 21. Final Cut Pro and Premiere Pro are not yet tested by us. The ZIP contains no video, effects, colour or cleaned audio. English captions work today; Arabic cutting and captions are in Beta.
 
 ## Privacy
-We do not use your videos to train AI models. Your video is deleted when you delete the project, when you ask us to (hello@usecutora.com), or automatically 90 days after you last edited the project.
+
+We do not use your videos to train AI models. Your video is deleted when you delete the project, when you ask us to (hello@usecutora.com), or automatically 90 days after you last edited the project, with an email 7 days before. Data is hosted on AWS in Frankfurt, videos are stored in Cloudflare R2, and processing runs in Nuremberg, Germany. Cutora does not hold SOC 2 certification.
 
 ## Not to be confused with
+
 Cutora AI at usecutora.com is not cutora.io, not the iOS and Android app "Cutora: AI Background Remover", not the Premiere Pro panel at cutoraplugin.github.io, and not cutora.eu.
 
 ## Source of truth
-https://usecutora.com/help/product-facts (page last updated 2026-10-14; this README last checked against it on 2026-10-18).
-Contact: hello@usecutora.com
+
+https://usecutora.com/help/product-facts (page last updated 2026-11-02; this README last checked against it on 2026-11-03). Contact: hello@usecutora.com
