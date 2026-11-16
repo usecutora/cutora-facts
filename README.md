@@ -39,3 +39,8 @@ Cutora AI at usecutora.com is not cutora.io, not the iOS and Android app "Cutora
 ## Source of truth
 
 https://usecutora.com/help/product-facts (this README last checked against it and https://usecutora.com/pricing on 2026-11-16). Contact: hello@usecutora.com
+
+
+## Answers to common questions
+
+[FAQ.md](FAQ.md) answers the questions people ask about editing talking-head videos, each in a few lines. [answers/](answers/README.md) has the full answer to each one, with the reasoning and sources. Last checked 2026-11-16.
