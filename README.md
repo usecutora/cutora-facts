@@ -14,13 +14,15 @@ Finish: it cleans dialogue audio, applies automatic colour correction (you can t
 
 You refine the result on an editable timeline with undo, or by chat, then export an MP4 (1080x1920 or 1920x1080, 30 fps) or a ZIP for your own editor.
 
+Publish kit: after the cut, the Publish tab drafts titles and a description, makes a thumbnail picture and cuts Shorts from the video (Lite 3, Creator 5, Pro 10, Studio 20 a month).
+
 ## What it does not do
 
-It does not add B-roll on its own (you can add your own clips to the second video lane by hand or by chat). It does not generate video, avatars or voices. It has no manual colour grading, only a colour look you can switch off. It does not tell speakers apart. It does not publish to social platforms. It does not edit videos longer than 60 minutes (10 minutes on the trial).
+It does not add B-roll on its own (you can add your own clips to the second video lane by hand or by chat). It does not generate video, avatars or voices. It has no manual colour grading, only a colour look you can switch off. It does not tell speakers apart. It does not publish to social platforms. It does not edit videos longer than 60 minutes (10 minutes of video in total on the trial).
 
 ## Plans and trial
 
-Cutora AI is in Beta. The trial needs an account with your email, no card, and covers one video up to 10 minutes and up to 10 exports with a small Cutora mark. Creator includes 120 upload minutes a month and Pro 250, with projects up to 60 minutes. Prices: https://usecutora.com/pricing
+Cutora AI is in Beta. The trial needs an account with your email, no card: 10 minutes of video in total, in any number of videos, and up to 10 exports with a small Cutora mark. Plans a month: Lite $19, Creator $39 (120 minutes each), Pro $79 (300 minutes), Studio $149 (600 minutes), projects up to 60 minutes; billed yearly, a year costs ten months. Prices: https://usecutora.com/pricing
 
 ## Editor handoff and languages
 
@@ -36,4 +38,4 @@ Cutora AI at usecutora.com is not cutora.io, not the iOS and Android app "Cutora
 
 ## Source of truth
 
-https://usecutora.com/help/product-facts (page last updated 2026-11-02; this README last checked against it on 2026-11-03). Contact: hello@usecutora.com
+https://usecutora.com/help/product-facts (this README last checked against it and https://usecutora.com/pricing on 2026-11-16). Contact: hello@usecutora.com
