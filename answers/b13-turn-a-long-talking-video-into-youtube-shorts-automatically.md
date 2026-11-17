@@ -10,6 +10,7 @@ Tools that find strong moments in a long video and cut them into vertical clips 
 5. Export and upload to YouTube yourself, or use a scheduler.
 
 ## What Cutora does and does not do here
+- Framing: when a horizontal video is exported vertical (1080×1920), Cutora centres each clip's crop on the speaker's face when it finds one, so the crop follows the face from clip to clip (one crop per clip, so a speaker who moves a lot inside a long clip can still reach the edge of the frame). A vertical video exported horizontal (1920×1080) is shown whole over a blurred, darkened copy of itself instead of being cut to a narrow strip.
 - Cuts Shorts from the video after the edit, up to the plan's monthly count. Vertical MP4 export is 1080x1920.
 - Captions (Clean, Bold, Karaoke), highlights and zooms apply to Shorts like any export.
 - It does not post to YouTube or any social platform.
@@ -23,4 +24,4 @@ Tools that find strong moments in a long video and cut them into vertical clips 
 - FireCut Shorts: browser product, 25 videos a month, clips up to 5 minutes, per FireCut's own page, read 2026-11-14.
 - Wisecut: its page says long videos become clips, per Wisecut's own page, read 2026-11-11.
 
-Last checked: 2026-11-16. Sources: https://usecutora.com/help/product-facts , https://usecutora.com/pricing , https://www.opus.pro/ , https://vizard.ai/pricing , https://firecut.ai/pricing , https://wisecut.ai/
+Last checked: 2026-11-17. Sources: https://usecutora.com/help/product-facts , https://usecutora.com/pricing , https://www.opus.pro/ , https://vizard.ai/pricing , https://firecut.ai/pricing , https://wisecut.ai/

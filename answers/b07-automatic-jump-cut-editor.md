@@ -11,6 +11,7 @@ An automatic jump cut editor removes the pauses between phrases so the picture j
 
 ## What Cutora does and does not do here
 - Cuts long pauses automatically; Pacing is Fast or Natural, with no exact pause-length setting.
+- Jump-cut push-in: at a cut where the picture would otherwise jump, Cutora adds a quick push-in (a 6 to 9 percent zoom) on the shot that follows, when that shot is 4 seconds or longer and no zoom, card or title is already there; each one is listed in the editor and can be removed.
 - Adds optional zooms (Motion) that can be switched off, and any single zoom can be removed from the Edits list.
 - Each cut gets a 10 millisecond audio fade.
 - Also cuts false starts and repeated takes, keeping one take of a repeated line.
@@ -23,4 +24,4 @@ An automatic jump cut editor removes the pauses between phrases so the picture j
 - AutoCut Silences: decibel threshold and padding inside Premiere Pro or DaVinci Resolve, per AutoCut's own page, read 2026-11-11.
 - Clipchamp: removes silences longer than 3 seconds, per Microsoft's own support page, read 2026-11-11.
 
-Last checked: 2026-11-16. Sources: https://usecutora.com/help/product-facts , https://www.timebolt.io/ , https://github.com/WyattBlue/auto-editor , https://autocut.com/en/autocutsilences/ , https://support.microsoft.com/en-US/Clipchamp/how-to-use-silence-removal
+Last checked: 2026-11-17. Sources: https://usecutora.com/help/product-facts , https://www.timebolt.io/ , https://github.com/WyattBlue/auto-editor , https://autocut.com/en/autocutsilences/ , https://support.microsoft.com/en-US/Clipchamp/how-to-use-silence-removal

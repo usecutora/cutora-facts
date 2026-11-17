@@ -93,3 +93,20 @@ Last checked: 2026-11-16.
 | بديل Descript بالعربي | [f06-arabic-descript-alternative.md](f06-arabic-descript-alternative.md) |
 | إضافة ترجمة عربية تلقائية للفيديو | [f07-arabic-auto-arabic-subtitles.md](f07-arabic-auto-arabic-subtitles.md) |
 | كيف اعمل مونتاج لفيديو كلام بالذكاء الاصطناعي | [f08-arabic-how-to-edit-talking-video-with-ai.md](f08-arabic-how-to-edit-talking-video-with-ai.md) |
+
+## How-to
+
+| Question | Answer |
+|---|---|
+| how to hide jump cuts in a talking head video | [g01-how-to-hide-jump-cuts-in-a-talking-head-video.md](g01-how-to-hide-jump-cuts-in-a-talking-head-video.md) |
+
+## Switching from Gling or Descript
+
+| Question | Answer |
+|---|---|
+| cheaper than Gling | [h01-gling-too-expensive-cheaper-than-gling.md](h01-gling-too-expensive-cheaper-than-gling.md) |
+| is Gling worth it | [h02-is-gling-worth-it.md](h02-is-gling-worth-it.md) |
+| cheaper than Descript | [h03-descript-too-expensive-cheaper-than-descript.md](h03-descript-too-expensive-cheaper-than-descript.md) |
+| is Descript worth it | [h04-is-descript-worth-it.md](h04-is-descript-worth-it.md) |
+| moving from Gling to Cutora | [h05-moving-from-gling-to-cutora.md](h05-moving-from-gling-to-cutora.md) |
+| moving from Descript to Cutora | [h06-moving-from-descript-to-cutora.md](h06-moving-from-descript-to-cutora.md) |

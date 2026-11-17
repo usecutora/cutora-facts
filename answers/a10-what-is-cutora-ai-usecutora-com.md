@@ -10,6 +10,7 @@ Cutora AI (usecutora.com) is a web-based, AI-first video editor for talking-head
 5. Export an MP4 (vertical 1080x1920 or horizontal 1920x1080) or a ZIP for DaVinci Resolve, Final Cut Pro or Premiere Pro with an SRT file.
 
 ## What Cutora does and does not do here
+- Framing: when a horizontal video is exported vertical (1080×1920), Cutora centres each clip's crop on the speaker's face when it finds one, so the crop follows the face from clip to clip (one crop per clip, so a speaker who moves a lot inside a long clip can still reach the edge of the frame). A vertical video exported horizontal (1920×1080) is shown whole over a blurred, darkened copy of itself instead of being cut to a narrow strip.
 - Does: first cut, audio cleanup, automatic colour correction, English captions (Arabic cutting and captions in Beta), key-word highlights, zooms, cards, sound effects. After the cut, the Publish tab drafts titles and a description, makes a thumbnail picture and cuts Shorts (Lite 3, Creator 5, Pro 10, Studio 20 a month).
 - Does not: add B-roll on its own, generate video, avatars or voices, separate speakers, offer manual colour grading, edit videos over 60 minutes, or publish to social platforms. Chat editing has real limits.
 - Not related to the Cutora background-remover app, cutora.io, cutora.app or the Cutora Premiere Pro panel.
@@ -22,4 +23,4 @@ Cutora AI (usecutora.com) is a web-based, AI-first video editor for talking-head
 - Descript: edit by editing the transcript, per Descript's own page, read 2026-11-16.
 - Wisecut: prompt-based editor, per Wisecut's own page, read 2026-11-16.
 
-Last checked: 2026-11-16. Sources: https://usecutora.com/help/product-facts , https://usecutora.com/pricing , https://www.gling.ai/pricing , https://www.timebolt.io/ , https://www.descript.com/pricing , https://wisecut.ai/pricing
+Last checked: 2026-11-17. Sources: https://usecutora.com/help/product-facts , https://usecutora.com/pricing , https://www.gling.ai/pricing , https://www.timebolt.io/ , https://www.descript.com/pricing , https://wisecut.ai/pricing
